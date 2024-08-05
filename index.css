@@ -1,0 +1,259 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.gift-title {
+    color: #d0b200;
+    font-weight: bold;
+}
+
+.icon-image {
+    color: #d0b200;
+    font-size: 35px;
+}
+
+.follow-us-card {
+    background-color: #faf7e8;
+    height: 80x;
+    width: 80px;
+    border-radius: 40px;
+}
+
+.follow-us-heading {
+    color: black;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.follow-us-section {
+    background-color: white;
+}
+
+.thanking-image {
+    height: 250px;
+    width: 250px;
+}
+
+.thanking-paragraph {
+    color: black;
+    font-family: "Roboto";
+    font-size: 22px;
+}
+
+.thanking-heading {
+    color: black;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.thanking-section {
+    background-image: radial-gradient(#fff8db, #fae38c);
+}
+
+.delivery-image-1 {
+    height: 50px;
+    width: 50px;
+}
+
+.delivery-paragraph {
+    color: black;
+    font-family: "Roboto";
+    font-size: 22px;
+}
+
+.delivery-heading {
+    color: black;
+    font-family: "Roboto";
+    font-size: 23px;
+    font-weight: 600;
+}
+
+.delivery-image {
+    height: 250px;
+    width: 250px;
+}
+
+.delivery-section-bg-container {
+    background-color: white;
+}
+
+.healthy-section-paragraph {
+    color: black;
+    font-family: "Roboto";
+    font-size: 17px;
+}
+
+.healthy-section-heading {
+    color: black;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.healthy-image {
+    height: 300px;
+    width: 300px;
+}
+
+.healthy-section-bg-container {
+    background-color: #f9fbfe;
+}
+
+.explore-section-image {
+    border-radius: 10px;
+}
+
+.text-style {
+    color: #d0b200;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.explore-section-card-heading {
+    color: black;
+    font-family: "Roboto";
+    font-size: 26px;
+
+}
+
+.explore-section-card {
+    background-color: white;
+    border-radius: 10px;
+}
+
+.explore-section-heading {
+    color: black;
+    font-family: "Roboto";
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.explore-section-bg-container {
+    background-color: white;
+}
+
+.span-style {
+    color: black;
+    font-weight: bold;
+}
+
+.wcu-card-paragraph {
+    color: black;
+    font-family: "Roboto";
+    font-size: 21px;
+}
+
+.wcu-card {
+    background-color: white;
+    border-radius: 10px;
+}
+
+.wcu-image {
+    height: 100px;
+    width: 100px;
+}
+
+.wcu-card-heading {
+    color: black;
+    font-family: "Roboto";
+    font-size: 30px;
+
+}
+
+.wcu-bg-container {
+    background-color: #f9fbfe;
+}
+
+.wcu-heading {
+    color: black;
+    font-family: "Roboto";
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.wcu-paragraph {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 30px;
+}
+
+.food-much-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.food-much-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 35px;
+}
+
+.food-much-paragraph {
+    color: white;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.custom-button {
+    height: 40px;
+    width: 120px;
+    color: white;
+    background-color: #d0b200;
+    border-radius: 10px;
+    border-width: 0px;
+}
+
+.button {
+    height: 40px;
+    width: 120px;
+    color: #d0b200;
+    background-color: transparent;
+    border-radius: 10px;
+    border-width: 0px;
+    border-style: solid;
+    border-color: #d0b200;
+    border-width: 1px;
+}
+
+#navItem-1 {
+    color: black;
+    font-weight: bold;
+}
+
+.address-section-paragrap {
+    color: white;
+    font-family: "Roboto";
+    font-size: 18px;
+}
+
+.address-section-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.navbar-image {
+    height: 90px;
+    width: 90px;
+}
+
+.address-section {
+    background-color: #0d2436;
+}
+
+#navItem-2 {
+    color: black;
+    font-weight: bold;
+}
+
+#navItem-3 {
+    color: black;
+    font-weight: bold;
+}
+
+#navItem-4 {
+    color: black;
+    font-weight: bold;
+}
